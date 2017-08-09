@@ -13,7 +13,6 @@ class Todos extends Component {
         return (
             <div className="Todos">
                 <h3>Todo List Sample101</h3>
-                <label>return to committed mistake</label>
                 {todoItems}
             </div>
         );
